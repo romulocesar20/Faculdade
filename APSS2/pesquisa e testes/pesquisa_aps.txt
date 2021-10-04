@@ -1,0 +1,10 @@
+Azul: aos papéis e papelões----	Sacos de lixo, Compactadores
+Verde: aos vidros-- Cavaletes, Espaçadores, Colares
+Vermelho: para os plásticos-- Contentor de plástico
+Amarelo: para os metais--Caçambas Rollon, Compactadores estacionários ou compactainer, Containers, Tambores e bombonas
+Marrom: para os resíduos orgânicos--Caçambas Rollon, Compactadores estacionários ou compactainer, Containers
+Preto: para madeiras--Caçambas Rollon, Compactadores estacionários ou compactainer, Containers
+Cinza: para materiais não reciclados-- Compactadores
+Branco: destinado aos lixos hospitalares-- Armazenar o lixo em áreas especialmente projetadas, longe dos itens limpos.
+Laranja: para resíduos perigosos--  Tambor, Tanque, Contenção temporária de resíduos, em área autorizada pelo órgão de controle ambiental
+Roxo: para resíduos radioativos-- tambores e tonéis lacrados ou tanques de aço inoxidável, revestidos de concreto.

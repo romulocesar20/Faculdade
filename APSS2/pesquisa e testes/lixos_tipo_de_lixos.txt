@@ -1,0 +1,72 @@
+Azul: aos papéis e papelões;
+Verde: aos vidros;
+Vermelho: para os plásticos;
+Amarelo: para os metais;
+Marrom: para os resíduos orgânicos;
+Preto: para madeiras;
+Cinza: para materiais não reciclados;
+Branco: destinado aos lixos hospitalares;
+Laranja: para resíduos perigosos;
+Roxo: para resíduos radioativos.
+
+Lixo Domiciliar:
+Esse tipo de lixo, também chamado de residencial ou domiciliar, 
+é todo tipo de material gerado pelos moradores das residências.
+Podemos incluir os materiais orgânicos (restos de alimentos, madeira, dejetos humanos)
+as embalagens, os vidros, os papéis, dentre outros.
+Importante ressaltar que muitas vezes, os remédios descartados com prazo de validade vencido 
+são considerados “lixo hospitalar”
+
+Lixo orgânico:
+O lixo orgânico é proveniente de matéria viva, ou seja
+possui origem biológica
+ por exemplo, restos de alimentos, folhas, caule, sementes, papéis usados, 
+dejetos humanos, dentre outros. 
+Eles são depositados em locais apropriados denominados aterros sanitários.
+Embora muitas pessoas não saibam, o lixo orgânico pode ser reciclado. 
+A partir desse processo, podem ser transformados em rações para animais e ainda
+ com o aproveitamento dos gases emitidos (metano) 
+ele serve para a produção de um combustível menos poluente, o biogás.
+
+Lixo hospitalar:
+Descartado por hospitais, clínicas de saúde, laboratórios, 
+farmácias, consultórios odontológicos e veterinários,
+ o lixo hospitalar inclui materiais como seringas, gases, fraldas,
+ luvas, agulhas, embalagens, dentre outros.
+
+Eles são altamente nocivos aos seres humano por estarem contaminados com vírus, 
+fungos e bactérias, e, por isso, são incinerados.
+
+Lixo industrial:
+
+Gerado pelo setor secundário, ou seja, as indústrias
+esse tipo de lixo é caracterizado por resíduos como gases, produtos químicos, 
+óleos, cinzas, metais, vidros, plásticos, tecidos, papéis, 
+borracha, madeira, dependendo da atividade de cada Indústria.
+
+Normalmente, os materiais descartados da construção civil
+ são encaixados nessa categoria.Chamado de “lixo especial” (lixo tóxico),
+eles incluem resíduos da construção civil, pilhas e agrotóxicos.
+
+
+Lixo eletronico:
+O lixo eletrônico (e-lixo) é composto pelo descarte dos aparelhos elétricos
+e eletrônicos como rádios, computadores, televisores, celulares, fios, baterias, 
+carregadores, dentre outros. 
+Altamente poluente, esse tipo de lixo pode conter cobre, alumínio e 
+metais pesados como o mercúrio e o chumbo.
+
+. Isso gera 50 milhões de toneladas de lixo eletrônico produzidas por ano no mundo,
+sendo que 10 milhões são reciclados na China.
+
+
+Lixo radioativo:
+Também chamado de lixo nuclear, esse tipo de lixo é altamente tóxico por conter urânio
+ (e outros metais pesados). 
+Ele é produzido por atividades que envolvam elementos radioativos como indústrias nucleares,
+ serviços de saúde, dentre outros.
+
+
+
+
+
