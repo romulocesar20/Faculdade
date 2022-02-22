@@ -1,0 +1,3 @@
+Sistema melhorado de cadastro de Alunos, notas e agora tambem cursos
+onde deve se cadastrar alunos sem repetir cursos, além de calculo de medias e sistema de RA unico
+tudo salvo em CSV e ao abrir o programa deve carregar os dados a partir dos CSV ja criados, como um banco de dados
