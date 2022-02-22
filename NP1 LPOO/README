@@ -1,0 +1,4 @@
+Sistema de Cadastro de Alunos, notas e se era aprovado.
+Utilizando Syntax básica e lógica para criar o código, ao inserir o nome do aluno e RA
+devera verificar se o RA é unico e ao cadastrar notas deve fazer o calculo das notas
+e dizer se o Aluno teve uma média >7 ou não e retornar sua média final.
